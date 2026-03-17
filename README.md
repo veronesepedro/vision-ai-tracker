@@ -36,9 +36,8 @@ vision-ai-tracker/
 
 ## ▶️ Como executar o projeto
 
-### 1. Clonar o repositório
-
 ```bash
+1. Clonar o repositório
 git clone https://github.com/veronesepedro/vision-ai-tracker.git
 cd vision-ai-tracker
 
